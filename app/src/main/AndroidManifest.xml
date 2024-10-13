@@ -18,6 +18,6 @@
             android:value="82"/>
         <meta-data
             android:name="xposedscope"
-            android:value="com.xposedscope"/>
+            android:value=""/>
     </application>
 </manifest>
